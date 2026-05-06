@@ -1,2 +1,0 @@
-Checkpoint file: best_model.pt
-Download link: TODO_PASTE_CLOUD_LINK_HERE
